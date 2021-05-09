@@ -1,6 +1,6 @@
 # Imersão Dados Alura - 3ª edição
 
-<img src="https://www.sterixpert.de/files/sterixpert/customer/media/Sektionsbilder/bbf-sektion-prueflablor-biologische-sicherheit.jpg" width="550" height="200"> <img src="https://altheia.com/wp-content/uploads/2020/11/d41586-018-05267-x_15789480.jpg" width="300" height="200">
+<img src="https://www.sterixpert.de/files/sterixpert/customer/media/Sektionsbilder/bbf-sektion-prueflablor-biologische-sicherheit.jpg" width="320" height="100"> <img src="https://altheia.com/wp-content/uploads/2020/11/d41586-018-05267-x_15789480.jpg" width="150" height="100">
 
 **Por: Maria Clara Martins**
 
